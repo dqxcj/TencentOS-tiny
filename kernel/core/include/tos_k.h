@@ -69,5 +69,7 @@
 #include <tos_global.h>
 #include <tos_version.h>
 
+#include <tos_system_call.h>
+
 #endif /* _TOS_K_H_ */
 
